@@ -5,7 +5,8 @@ This project is a simple website created with HTML and CSS, showcasing a title a
 
 ## Preview
 
-[Insert here a link or screenshot of the website hosted online.]
+![aaaaaaaaa](https://github.com/HoudaBelhad/Background-video-site/assets/115419309/24e4e294-3f3d-4de6-b19d-941568745841)
+
 
 ## Features
 
